@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">News App </string>
+    <string name="no_connection">No internet connection\ntap to refresh</string>
+    <string name="no_news">No news found</string>
+
+    <string name="attribution_link">Powered by News API</string>
+    <string name="search">Search</string>
+    <string name="no_description">No description</string>
+    <string name="no_source">No source</string>
+    <string name="no_title">No title</string>
+
+    <string name="news_api_key" translatable="false">d0c7ddd5-0fdb-4fed-a389-21fe89a36595</string>
+
+    <!-- Strings for country Preference -->
+    <string name="settings_country_label">Country</string>
+    <string name="settings_country_key" translatable="false">country</string>
+    <string name="settings_country_default" translatable="false">@string/settings_country_us_value</string>
+
+    <!-- Label for country US option -->
+    <string name="settings_country_us_label">USA</string>
+    <string name="settings_country_us_value" translatable="false">us</string>
+
+    <!-- Label for country India option -->
+    <string name="settings_country_in_label">India</string>
+    <string name="settings_country_in_value" translatable="false">in</string>
+
+    <!-- Label for country Russia option -->
+    <string name="settings_country_ru_label">Russia</string>
+    <string name="settings_country_ru_value" translatable="false">ru</string>
+
+    <!-- Label for countryJapan  option -->
+    <string name="settings_country_pl_label">Japan</string>
+    <string name="settings_country_pl_value" translatable="false">jp</string>
+
+    <!-- Label for country Germany option -->
+    <string name="settings_country_de_label">Germany</string>
+    <string name="settings_country_de_value" translatable="false">de</string>
+
+    <!-- Categories values and titles -->
+    <string name="WorldNews_title">World</string>
+    <string name="business_title">Business</string>
+    <string name="entertainment_title">Entertainment</string>
+    <string name="sports_title">Sports</string>
+    <string name="technology_title">Technology</string>
+    <string name="Trending_title">Trends</string>
+    <string name="Politics_title">Politics</string>
+
+</resources>
